@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "nome": "Riachuelo",
+        "valor": 150.90,
+        "status": "PAGO"
+    },
+    {
+        "id": 2,
+        "nome": "Renner",
+        "valor": 100,
+        "status": "NÃO PAGO"
+    },
+    {
+        "id": 3,
+        "nome": "Steam",
+        "valor": 25.50,
+        "status": "NÃO PAGO"
+    },
+    {
+        "id": 4,
+        "nome": "Dentista",
+        "valor": 120,
+        "status": "PAGO"
+    },
+    {
+        "id": 5,
+        "nome": "Nubank",
+        "valor": 200,
+        "status": "NÃO PAGO"
+    },
+    {
+        "id": 6,
+        "nome": "Sr. José",
+        "valor": 180,
+        "status": "PAGO"
+    },
+    {
+        "id": 7,
+        "nome": "Banco Inter",
+        "valor": 250,
+        "status": "NÃO PAGO"
+    },
+    {
+        "id": 8,
+        "nome": "IPVA",
+        "valor": 350,
+        "status": "NÃO PAGO"
+    },
+    {
+        "id": 9,
+        "nome": "Energia",
+        "valor": 230,
+        "status": "PAGO"
+    },
+    {
+        "id": 10,
+        "nome": "Água",
+        "valor": 63.30,
+        "status": "PAGO"
+    },
+    {
+        "id": 11,
+        "nome": "Internet",
+        "valor": 80,
+        "status": "NÃO PAGO"
+    },
+    {
+        "id": 12,
+        "nome": "Gasolina",
+        "valor": 170,
+        "status": "PAGO"
+    },
+    {
+        "id": 13,
+        "nome": "Barbearia",
+        "valor": 50,
+        "status": "PAGO"
+    }
+]
