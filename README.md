@@ -8,7 +8,7 @@ Aplicação cliente/servidor usando Web services em Java com o estilo arquitetur
 
 ## Execução pelo Postman
 
-![Execução]()
+![Execução pelo Postman](https://github.com/jmofarias/registro_de_dividas/blob/master/execucao_postman.gif)
 
 Links utilizados na execução do projeto:
 
